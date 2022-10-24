@@ -26,6 +26,7 @@ Num_of_organization = int(input());
 
 simplelist = []
 
+
 i=0
 while(i<Num_of_organization):
     Company2 = Organization()
